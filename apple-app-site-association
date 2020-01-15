@@ -1,0 +1,11 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "XF6YR5AQB3.com.car.xiaochi",
+                "paths": [ "/wxshare/*"]
+            }
+        ]
+    }
+}
